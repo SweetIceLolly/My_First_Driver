@@ -36,6 +36,6 @@ I tried to follow the tutorial to implement SSDT hook but I failed because my dr
 
 I heard that `KeServiceDescriptorTable` is not exported on x64 systems, so I can't do that on my computer :(
 
-I also tried some [methods](https://github.com/conix-security/zer0m0n/blob/master/src/driver/x64/hook.c) but it didn't work :(
+I also tried some [methods](https://github.com/conix-security/zer0m0n/blob/master/src/driver/x64/hook.c#L96) but it didn't work :(
 
 Anyway, this is my first driver. I hope you can find what you need in this repo :)
